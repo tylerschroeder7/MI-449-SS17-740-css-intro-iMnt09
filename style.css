@@ -6,6 +6,14 @@
 
 header {
   max-height: 110px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 15px;
 }
 
 h1, .tagline {
